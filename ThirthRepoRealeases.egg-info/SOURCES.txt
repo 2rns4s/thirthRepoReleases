@@ -1,0 +1,7 @@
+README.md
+setup.py
+ThirthRepoRealeases.egg-info/PKG-INFO
+ThirthRepoRealeases.egg-info/SOURCES.txt
+ThirthRepoRealeases.egg-info/dependency_links.txt
+ThirthRepoRealeases.egg-info/top_level.txt
+thirthRepoReleases/__init__.py
